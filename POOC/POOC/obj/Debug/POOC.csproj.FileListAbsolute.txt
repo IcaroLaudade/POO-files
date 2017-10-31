@@ -1,0 +1,6 @@
+C:\Users\Icaro\Desktop\Orientação a objetos\POOC\POOC\bin\Debug\POOC.exe.config
+C:\Users\Icaro\Desktop\Orientação a objetos\POOC\POOC\bin\Debug\POOC.exe
+C:\Users\Icaro\Desktop\Orientação a objetos\POOC\POOC\bin\Debug\POOC.pdb
+C:\Users\Icaro\Desktop\Orientação a objetos\POOC\POOC\obj\Debug\POOC.csprojResolveAssemblyReference.cache
+C:\Users\Icaro\Desktop\Orientação a objetos\POOC\POOC\obj\Debug\POOC.exe
+C:\Users\Icaro\Desktop\Orientação a objetos\POOC\POOC\obj\Debug\POOC.pdb
